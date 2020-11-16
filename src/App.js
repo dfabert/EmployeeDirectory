@@ -5,7 +5,7 @@ import React, { Component } from "react";
 import EmployeeCard from "./components/EmployeeCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import employees from './employee.json';
+import employees from './components/employees.json';
 
 class App extends Component {
   state = {
