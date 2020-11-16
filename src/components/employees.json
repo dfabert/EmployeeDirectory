@@ -3,21 +3,21 @@
     "id": 1,
     "name": "Neil Armstrong",
     "role": "Commander",
-    "days in space": 8,
-    "final mission": "Apollo 11"
+    "days_in_space": 8,
+    "final_mission": "Apollo 11"
   },
   {
     "id": 2,
     "name": "Michael Collins",
     "role": "Command Module Pilot",
-    "days in space": 11,
-    "final mission": "Apollo 11"
+    "days_in_space": 11,
+    "final_mission": "Apollo 11"
   },
   {
     "id": 3,
     "name": "Edwin 'Buzz' Aldrin",
     "role": "Lunar Module Pilot",
-    "days in space": 12,
-    "final mission": "Apollo 11"
+    "days_in_space": 12,
+    "final_mission": "Apollo 11"
   }
 ]

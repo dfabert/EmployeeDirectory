@@ -1,8 +1,5 @@
-//import logo from './logo.svg';
-//import './App.css';
-
 import React, { Component } from "react";
-import EmployeeCard from "./components/EmployeeCard";
+import EmployeeTable from "./components/EmployeeTable";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import employees from './components/employees.json';
@@ -21,15 +18,18 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Employee Directory</Title>
-        {this.state.employees.map(employee => (
-          <EmployeeCard
-            removeEmployee={this.removeEmployee}
-            id={employee.id}
-            key={employee.id}
-            name={employee.name}
-            occupation={employee.occupation}
-          />
-        ))}
+        <table>
+          {this.state.employees.map(employee => (
+            <EmployeeTable
+              removeEmployee={this.removeEmployee}
+              id={employee.id}
+              name={employee.name}
+              role={employee.role}
+              days_in_space={employee.days_in_space}
+              final_mission={employee.final_mission}
+            />
+          ))}
+        </table>
       </Wrapper>
     );
   }
