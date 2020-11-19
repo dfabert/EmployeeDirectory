@@ -37,7 +37,9 @@
   No test guidelines noted
 
   ## Questions
-  Github Repository: https://github.com/dfabert  
+  Github Repository: https://github.com/dfabert/EmployeeDirectory
   Any further questions, please e-mail me at:  df.webdev@gmail.com
   
-  
+  ## Application Image
+
+  ![Index Page](https://dfabert.github.io/EmployeeDirectory/public/assets/index_page.JPG)
