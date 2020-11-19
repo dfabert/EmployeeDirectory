@@ -5,6 +5,9 @@
   [![The MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 
+  ## Deployed Link
+  [Click Here](https://dfabert.github.io/EmployeeDirectory/index)
+
   ## Table of Contents
   * [Description of the Project](#Description-of-the-project)
   * [Installation Guidelines](#Installation-Guidelines)
