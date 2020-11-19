@@ -19,5 +19,55 @@
     "role": "Lunar Module Pilot",
     "days_in_space": 12,
     "final_mission": "Apollo 11"
+  },
+  {
+    "id": 4,
+    "name": "Virgil I. 'Gus' Grissom",
+    "role": "Commander",
+    "days_in_space": 0,
+    "final_mission": "Apollo 1"
+  },
+  {
+    "id": 5,
+    "name": "Edward H. White",
+    "role": "Senior Pilot",
+    "days_in_space": 4,
+    "final_mission": "Apollo 1"
+  },
+  {
+    "id": 6,
+    "name": "Robert B. Chaffee",
+    "role": "Pilot",
+    "days_in_space": 0,
+    "final_mission": "Apollo 1"
+  },
+  {
+    "id": 7,
+    "name": "Wally Schirra",
+    "role": "Commander",
+    "days_in_space": 12,
+    "final_mission": "Apollo 7"
+  },
+  {
+    "id": 8,
+    "name": "Alan Shepard",
+    "role": "Commander",
+    "days_in_space": 9,
+    "final_mission": "Apollo 14"
+  },
+  {
+    "id": 9,
+    "name": "James McDivitt",
+    "role": "Commander",
+    "days_in_space": 14,
+    "final_mission": "Apollo 9"
+  },
+  {
+    "id": 10,
+    "name": "Frank Borman",
+    "role": "Commander",
+    "days_in_space": 19,
+    "final_mission": "Apollo 8"
   }
+
 ]
